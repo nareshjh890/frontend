@@ -1,5 +1,5 @@
 this is my first git repository
 <br>
-author naresh manda
+author naresh mandal
 
 # frontend
